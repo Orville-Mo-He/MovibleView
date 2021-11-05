@@ -235,6 +235,7 @@ li{
     flex-shrink: 0;
 }
 .ProjectImage{
+    height:auto;
     padding-left: 10vw;
     flex-basis: 100%;
     width: 70%;
